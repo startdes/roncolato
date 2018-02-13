@@ -6,7 +6,7 @@
     width: 100%;
     max-width: 400px;    
     text-align: center;
-    line-height: 35px;
+    line-height: 25px;
 }
 
 .divcenter {
@@ -14,7 +14,7 @@
 }
 
 .divconteudo {
-    margin: 18px;
+    margin: 12px;
 }
 
 .divpropaganda {
