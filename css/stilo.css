@@ -1,106 +1,25 @@
-.logo{
+.logo {
     width: 500px;
 }
 
-
-.divzapzap {
+.divlinks {
     width: 100%;
-    max-width: 450px;
-    float: center;
-    text-align: center;   
-    
-}
-
-.divinstagram {
-    width: 100%;
-    max-width: 450px;
-    float: center;
+    max-width: 400px;    
     text-align: center;
 }
 
-.divface {
-    width: 100%;
-    max-width: 450px;
-    float: center;
+.divcenter {
     text-align: center;
 }
 
-.divsite {
-    width: 100%;
-    max-width: 450px;
-    float: center;
-    text-align: center;
+.divconteudo {
+    margin: 18px;
 }
 
-
-#divlocalizacao {
-    width: 100%;
-    background-color: #af0505;
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
-}
-
-#divtel {
-    width: 100%;
-    background-color: rgb(57, 53, 53);
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
+.divpropaganda {
+    margin-top: 50px;
 
 }
-
-#divcompartilhar {
-    width: 100%;
-    background-color: #f4f4f4;
-    line-height: 60px;
-    font-size: 14px;
-    color: #0a0909;
-    float: left;
-    text-align: center;
-
-}
-
-.propaganda {
-    width: 100%;
-    background-color: #ffffff;
-    line-height: 60px;
-    font-size: 14px;
-    color: #030303;
-    float: left;
-    text-align: center;
-
-}
-.divtop{
-    position: absolute;
-    z-index: 1;
-    width: 100%;
-    height: 100%;
-    top: 0px;
-    left: 0px;
-    background-size: cover;    
-    background-image: url(/img/logo.png);
-    background-repeat: repeat-x;
-    background-position: center center;
-    overflow: visible;
-    box-shadow: none;
-    background-size: cover;
-    height: 410px;
-    
-}
-
-.divcenter{
-    text-align: center;
-}
-
-.divconteudo{
-    margin: 15px;
-}
-.divpropaganda{
-    margin-top: 80px;
-    
+#link{
+    color: #000000;
 }
