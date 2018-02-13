@@ -7,7 +7,8 @@
     width: 100%;
     max-width: 450px;
     float: center;
-    text-align: center;
+    text-align: center;   
+    
 }
 
 .divinstagram {
@@ -100,6 +101,6 @@
     margin: 15px;
 }
 .divpropaganda{
-    margin-top: 90px;
+    margin-top: 80px;
     
 }
